@@ -11,5 +11,3 @@ If all the files in a repository are stored in the root directory, then we would
 However, if our files are organized by category, we can very quickly eliminate the directories and files we don't need to look through.
 
 ![alt text](tree.png "File tree")
-
-There are a ton of ways you could do this--just remember to name files and directories in a way that makes sense to you and your team!
